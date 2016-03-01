@@ -9,14 +9,13 @@ Joakim Bestman 30 år
 
 2. Klona hem projektet
 	
-	Öppna terminalen och gå till önskad mapp. Kör `git clone https://github.com/im-fredrik/joakim-30-videos-swift-ios.git`
+	Öppna terminalen och gå till önskad mapp. Kör `git clone https://github.com/im-fredrik/joakim-30-videos-swift-ios.git` ange användarnamn och lösenord om det krävs.
 
 3. Ladda hem filmerna
 
-	Tyvärr tog filmerna för mycket utrymme för att ligga på github. Men jag har laddat upp dem här: 
-
-	Se till att lägga in dessa filer i /joakim-30-videos-swift-ios/Media/[x.mov]
+	Tyvärr tog filmerna för mycket utrymme för att ligga på github. Men jag har laddat upp dem här: `laddar upp just nu...`
+	Se till att Skapa en mapp `Media` och lägg in dessa filer under `/joakim-30-videos-swift-ios/Media/[x.mov]`
 
 3. Öppna och kör i Xcode!
 
-    Leta reta på joakim-30-videos-swift-ios.xcodeproj och kör igång projektet. Kör igång projektet via Product > Run. All logik i hela appen ligger i ViewController.swift. Så det är världens minsta app! Den bör upplevas med glimten i ögat. Som ett minne av vår fantastiska vänskap. Vissa klipp är pinsamma, vissa är fantastiska.
+    Leta reta på `joakim-30-videos-swift-ios.xcodeproj` och kör igång projektet. Kör igång projektet via Product > Run. All logik i hela appen ligger i ViewController.swift. Så det är världens minsta app! Den bör upplevas med glimten i ögat. Som ett minne av vår fantastiska vänskap. Vissa klipp är pinsamma, vissa är underbara.
