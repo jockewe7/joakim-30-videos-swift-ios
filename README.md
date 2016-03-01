@@ -5,7 +5,7 @@ Joakim Bestman 30 år
 
 1. Installera git
 
-	Detta kanske du redan gjort? Om inte kolla in https://help.github.com/articles/set-up-git/ för instruktioner
+	Det här har du kanske redan gjort? Om inte kolla in https://help.github.com/articles/set-up-git/ för instruktioner
 
 2. Klona hem projektet
 	
@@ -13,7 +13,7 @@ Joakim Bestman 30 år
 
 3. Ladda hem filmerna
 
-	Tyvärr tog filmerna för mycket utrymme för att ligga på github. Men jag har laddat upp dem här: **laddar upp just nu...**
+	Tyvärr tog filmerna för mycket utrymme för att ligga på github. Men jag har laddat upp dem här: **http://we.tl/o5V6GYXTf1**
 	Se till att Skapa en mapp **Media** och lägg in dessa filer under **/joakim-30-videos-swift-ios/Media/[x.mov]**
 
 3. Öppna och kör i Xcode!
