@@ -25,6 +25,8 @@ xcuserdata/
 *.hmap
 *.ipa
 
+joakim-30-videos-swift-ios/Media/*
+
 ## Playgrounds
 timeline.xctimeline
 playground.xcworkspace
