@@ -14,7 +14,7 @@ Joakim Bestman 30 år
 3. Ladda hem filmerna
 
 	Tyvärr tog filmerna för mycket utrymme för att ligga på github. Men jag har laddat upp dem här: **laddar upp just nu...**
-	Se till att Skapa en mapp `Media` och lägg in dessa filer under **/joakim-30-videos-swift-ios/Media/[x.mov]**
+	Se till att Skapa en mapp **Media** och lägg in dessa filer under **/joakim-30-videos-swift-ios/Media/[x.mov]**
 
 3. Öppna och kör i Xcode!
 
